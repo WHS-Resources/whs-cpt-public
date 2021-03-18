@@ -2,7 +2,7 @@
 
 ## Date: April 10, 2021
 
-[3 Sample Problems we wrote](www.hackerrank.com/whs-sample)
+[3 Sample Problems we wrote](https://www.hackerrank.com/whs-sample)
 
 ## About
 
