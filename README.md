@@ -2,6 +2,8 @@
 
 ## Date: April 10, 2021 1:00 CST- 5:00 CST
 
+## Problem Count: 30
+
 [3 Sample Problems](https://www.hackerrank.com/whs-sample)
 
 ## About
