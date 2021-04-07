@@ -1,6 +1,6 @@
 # Westlake High School Competitive Programming Tournament (WHS-CPT)
 
-## Date: April 10, 2021 1:00 CST
+## Date: April 10, 2021 1:00 CST- 5:00 CST
 
 [3 Sample Problems](https://www.hackerrank.com/whs-sample)
 
