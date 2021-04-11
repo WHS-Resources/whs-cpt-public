@@ -8,15 +8,15 @@
 
 ## Results
 
-1. Aaeria - Eric Pei/Andrew Qi Tang/Victor Gao - 2600
-2. tempester04 - Elijah Huang/Ethan Peng/Justin Wu - 2300
-3. canihasstdio - tuzepoito / cup_of_tea / yann_dev - 2200
-4. echen333us - Edward Chen - 1800
+1. Aaeria - Eric Pei, Andrew Qi Tang, Victor Gao - 2600
+2. tempester04 - Elijah Huang, Ethan Peng, Justin Wu - 2300
+3. canihasstdio - tuzepoito, cup_of_tea, yann_dev - 2200
+4. echen333us - Edward Chen, Anish Rajeev, Sahil Parikh - 1800
 5. zoember - Aaron Liu - 1800
-6. Vandegrift_1_A - Andrew McAlinden/Jasper Lee/Rohit Alamgari - 1700
-7. A88-McNeilHS - Jessica Shoemaker/Nitish Malluru/Jedidiah Samrajkumar - 1500
-8. TeamBlueberries - Hanyu Wei/Ishan Dasgupta/Kevin Yu - 1500
-9. jim231 - Jewon Im/Ryan Kim - 1300
+6. Vandegrift_1_A - Andrew McAlinden, Jasper Lee, Rohit Alamgari - 1700
+7. A88-McNeilHS - Jessica Shoemaker, Aditya Patwardhan - 1500
+8. TeamBlueberries - Hanyu Wei, Ishan Dasgupta, Kevin Yu - 1500
+9. jim231 - Jewon Im, Ryan Kim - 1300
 10. jakedude18 - Jake Kerrigan - 600
 
 ## About
